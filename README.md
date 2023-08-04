@@ -1,4 +1,4 @@
 # APi-de-filmes
-Usando JS
+Usando React.JS
 Yarn
 Json
